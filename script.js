@@ -12,7 +12,7 @@ let lastTime = 0;
 let background, moon, stars, fireflies, grass, flowers;
 
 // --- CUSTOMIZABLE MESSAGE ---
-const customMessageText = "Mamá";
+const customMessageText = "yoshi";
 
 let allFlowersGrown = false;
 let messageAlpha = 0;
